@@ -16,3 +16,14 @@ In terms of power, 4 steppers peak at around 250mA each so I'm specing for 1 A t
 Also. I hate CAD. I'm scared for that part. (And so is my 2015 macbook)
 
 **Total time spent: 2h ish**
+
+# July 21st: Schematics are hard
+
+I started work on the ✨ _schematic_ ✨ today and I have a more general idea of what I'm doing but I also have a LOT more questions. I learned how to make my own footprints and schematics in KiCad because most of the components I'm using don't have any I could find. (Shoutout to https://eleif.net/photomeasure so that I could take measurements on like the only reference image of my stepper driver on the internet) I ended up completely nuking my schematic a few times before I settled on it and I just realized that I have no idea how JST connectors actually work but that's a tomorrow problem. After I figure out what a JST is (or why a JST is?) I just need to develop the main board which _shouldn't_ 🤞 be too different or complicated (_it probably will be_)
+
+ALSO BEFORE I FORGET TO PUT IT HERE HUGE SHOUTOUT TO MorganManley's [AWESOME SPLIT FLAP GUIDE](https://www.instructables.com/Split-Flap-Display-3D-Printed-Modular-Compact-Encl/) THAT I'M ONLY SLIGHTLY COPYING OFF OF (but like seriously its such good inspiration and your schematics are really helpful tysm)
+
+Current schematic:
+<img width="1348" height="810" alt="image" src="https://github.com/user-attachments/assets/a0bcff18-fa89-46d2-8852-cf5ae5634ad1" />
+
+**Total time spent: 3h**
